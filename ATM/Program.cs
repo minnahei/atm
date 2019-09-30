@@ -5,13 +5,7 @@ namespace ATM
     class Program
     {
         
-            //int amt = 10000, amtwithdraw, current, pin = 4040, pin1, pin2;
-
-            //read pin
-            //Console.WriteLine("Enter your pin");
-            //pin1 = Int32.Parse(Console.ReadLine());
-
-            static void Main (string[] args)
+         static void Main (string[] args)
             {
                
                 int amt = 10000, amtwithdraw, current, pin = 4040, pin1, pin2;
